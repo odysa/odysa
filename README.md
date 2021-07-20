@@ -2,9 +2,10 @@
 
 👀 On fire! 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odysa&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odysa&theme=default)
 
-![Odysa's GitHub stats](https://github-readme-stats.vercel.app/api?username=odysa&hide=contribs,prs)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=odysa&theme=default)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=odysa&theme=default)
 
 ![](https://komarev.com/ghpvc/?username=odysa)
