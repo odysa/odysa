@@ -17,15 +17,9 @@
 - 🧠 **[CVQuest](https://github.com/odysa/CVQuest)** - AI-powered interview question generator from your resume
 - 🦀 **[mini-claw-code](https://github.com/odysa/mini-claw-code)** - Build your own mini coding agent in Rust
 - 🤖 **[one-agent-sdk](https://github.com/odysa/one-agent-sdk)** - One SDK for every agent — embed Claude Code, Codex, and more into your apps
-- ♟️ **[chatgpt-chess-plugin](https://github.com/odysa/chatgpt-chess-plugin)** - Play chess against ChatGPT
 - 🔍 **[portit](https://github.com/odysa/portit)** - Minimal CLI for inspecting listening TCP ports and killing processes
 - 🌐 **[histctl](https://github.com/odysa/histctl)** - Terminal tool to search, browse, and delete browser history
 - 🗄️ **[lsdb](https://github.com/odysa/lsdb)** - A key-value database built from scratch in Rust
-- 🎮 **[genshinlang](https://github.com/odysa/genshinlang)** - A programming language inspired by Genshin Impact
-
-### Competitive Programming
-
-- 🏆 **[ICPCCompetitionCodes](https://github.com/odysa/ICPCCompetitionCodes)** - Algorithms and data structures for ICPC
 
 ## GitHub Activity
 
