@@ -29,7 +29,7 @@
 
 - **AI agents & tooling** - Building the infrastructure for LLM-powered development
 - **Systems programming** - Rust and Go for fast, reliable CLI tools
-- **Language design** - Exploring PLT through toy languages and interpreters
+- **CLI tools** - Compact, fast utilities that solve real problems
 - **Open source** - Turning personal tools into shared utilities
 
 ## Stats
