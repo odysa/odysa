@@ -21,6 +21,7 @@
 - 🌐 **[histctl](https://github.com/odysa/histctl)** - Terminal tool to search, browse, and delete browser history
 - 🐍 **[rdf4j-python](https://github.com/odysa/rdf4j-python)** - Python client for Eclipse RDF4J — SPARQL queries and RDF data management
 - 🐚 **[rdf4j-tui](https://github.com/odysa/rdf4j-tui)** - psql-like TUI for managing Eclipse RDF4J servers
+- ⚙️ **[rdf4j-cli](https://github.com/odysa/rdf4j-cli)** - CLI for managing RDF4J repositories
 - 🔮 **[rdf4j-mcp](https://github.com/odysa/rdf4j-mcp)** - MCP server for AI-powered exploration of RDF data and SPARQL querying
 - 🗄️ **[lsdb](https://github.com/odysa/lsdb)** - A key-value database built from scratch in Rust
 
