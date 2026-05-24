@@ -2,6 +2,8 @@
 
 📍 **New York** | 🤖 **AI Agent Builder** | 🦀 **Polyglot Systems Hacker** | 🌐 **[Blog](https://odysa.github.io)**
 
+🔭 **Currently focused on LLM inference** — Rust ports, Apple Silicon, and serving internals
+
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
