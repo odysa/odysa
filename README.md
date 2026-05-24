@@ -16,9 +16,11 @@
 
 - 🧠 **[CVQuest](https://github.com/odysa/CVQuest)** - AI-powered interview question generator from your resume
 - 🦀 **[mini-claw-code](https://github.com/odysa/mini-claw-code)** - Build your own mini coding agent in Rust
-- 🤖 **[one-agent-sdk](https://github.com/odysa/one-agent-sdk)** - One SDK for every agent — embed Claude Code, Codex, and more into your apps
+- 🤖 **[one-agent-sdk](https://github.com/odysa/one-agent-sdk)** - One SDK for every agent — embed Claude Code, Codex, and more into your apps ([Python](https://github.com/odysa/one-agent-sdk-python) & [Go](https://github.com/odysa/one-agent-sdk-go) ports available)
+- 🍎 **[mlx-lm-rs](https://github.com/odysa/mlx-lm-rs)** - Rust port of Apple's mlx-lm via mlx-rs — Qwen3 dense (bf16) inference on Apple Silicon with streaming generation, greedy/temperature sampling, and chat templates
 - 🔍 **[portit](https://github.com/odysa/portit)** - Minimal CLI for inspecting listening TCP ports and killing processes
 - 🌐 **[histctl](https://github.com/odysa/histctl)** - Terminal tool to search, browse, and delete browser history
+- 💸 **[splitwise-cli](https://github.com/odysa/splitwise-cli)** - Command-line interface for Splitwise, written in Rust
 - 🐍 **[rdf4j-python](https://github.com/odysa/rdf4j-python)** - Python client for Eclipse RDF4J — SPARQL queries and RDF data management
 - 🐚 **[rdf4j-tui](https://github.com/odysa/rdf4j-tui)** - psql-like TUI for managing Eclipse RDF4J servers
 - ⚙️ **[rdf4j-cli](https://github.com/odysa/rdf4j-cli)** - CLI for managing RDF4J repositories
