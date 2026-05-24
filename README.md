@@ -1,6 +1,6 @@
 # Hi, I'm Chengxu 👋
 
-📍 **New York** | 🤖 **AI Agent Builder** | 🦀 **Polyglot Systems Hacker**
+📍 **New York** | 🤖 **AI Agent Builder** | 🦀 **Polyglot Systems Hacker** | 🌐 **[Blog](https://odysa.github.io)**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -49,6 +49,7 @@
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/-Blog-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://odysa.github.io)
 [![LinkedIn](https://img.shields.io/badge/-Chengxu_Bian-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chengxubian/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/odysa)
 
