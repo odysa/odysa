@@ -29,6 +29,11 @@
 - 🔮 **[rdf4j-mcp](https://github.com/odysa/rdf4j-mcp)** - MCP server for AI-powered exploration of RDF data and SPARQL querying
 - 🗄️ **[lsdb](https://github.com/odysa/lsdb)** - A key-value database built from scratch in Rust
 
+## Tutorials
+
+- 📚 **[learn-sglang](https://github.com/odysa/learn-sglang)** - Interactive tutorial on how SGLang serves LLMs — 12 chapters from architecture to speculative decoding ([live demo](https://odysa.github.io/learn-sglang/))
+- 🧑‍🏫 **[teach-me-this-project](https://github.com/odysa/teach-me-this-project)** - Claude Code skill that generates an interactive HTML tutorial for any software project
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/odysa)
