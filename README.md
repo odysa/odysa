@@ -34,6 +34,15 @@
 - 📚 **[learn-sglang](https://github.com/odysa/learn-sglang)** - Interactive tutorial on how SGLang serves LLMs — 12 chapters from architecture to speculative decoding ([live demo](https://odysa.github.io/learn-sglang/))
 - 🧑‍🏫 **[teach-me-this-project](https://github.com/odysa/teach-me-this-project)** - Claude Code skill that generates an interactive HTML tutorial for any software project
 
+## Open Source Contributions
+
+Merged PRs to projects I use and admire:
+
+- 🦀 **Rust tooling** — [rust-clippy](https://github.com/rust-lang/rust-clippy/pulls?q=is%3Apr+author%3Aodysa), [rust-analyzer](https://github.com/rust-lang/rust-analyzer/pulls?q=is%3Apr+author%3Aodysa), [bincode](https://github.com/bincode-org/bincode/pulls?q=is%3Apr+author%3Aodysa), [clap](https://github.com/clap-rs/clap/pulls?q=is%3Apr+author%3Aodysa) *(in review)*
+- 🌊 **Data infrastructure** — [RisingWave](https://github.com/risingwavelabs/risingwave/pulls?q=is%3Apr+author%3Aodysa), [Apache iceberg-rust](https://github.com/apache/iceberg-rust/pulls?q=is%3Apr+author%3Aodysa), [Apache arrow-rs](https://github.com/apache/arrow-rs/pulls?q=is%3Apr+author%3Aodysa), [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs/pulls?q=is%3Apr+author%3Aodysa)
+- 🔗 **Knowledge graphs** — [Eclipse RDF4J](https://github.com/eclipse-rdf4j/rdf4j/pulls?q=is%3Apr+author%3Aodysa)
+- 🤖 **AI / LLM** — [AIOS](https://github.com/agiresearch/AIOS/pulls?q=is%3Apr+author%3Aodysa), [rustformers/llm](https://github.com/rustformers/llm/pulls?q=is%3Apr+author%3Aodysa), [Apple mlx-lm](https://github.com/ml-explore/mlx-lm/pulls?q=is%3Apr+author%3Aodysa) *(in review)*
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/odysa)
