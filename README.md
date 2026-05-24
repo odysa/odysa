@@ -40,8 +40,12 @@
 
 ## Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=odysa&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odysa&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=odysa&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=odysa&layout=compact&hide_border=true" /> |
 | --- | --- |
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=odysa&hide_border=true)](https://github.com/odysa)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=odysa&no-frame=true&margin-w=8&column=7)](https://github.com/odysa)
 
 ## Connect
 
